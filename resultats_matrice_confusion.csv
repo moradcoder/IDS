@@ -1,0 +1,9 @@
+modele,composante,valeur
+reference,TN,36114
+reference,FP,29
+reference,FN,58
+reference,TP,8799
+bpso,TN,36105
+bpso,FP,38
+bpso,FN,39
+bpso,TP,8818

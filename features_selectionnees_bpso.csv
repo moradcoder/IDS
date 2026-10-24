@@ -1,0 +1,27 @@
+feature_selectionnee
+ Destination Port
+ Flow Duration
+ Total Fwd Packets
+Total Length of Fwd Packets
+ Fwd Packet Length Std
+Bwd Packet Length Max
+ Flow Packets/s
+ Fwd IAT Max
+ Fwd IAT Min
+ Bwd IAT Mean
+Fwd PSH Flags
+Fwd Packets/s
+ Min Packet Length
+ Packet Length Mean
+ Packet Length Variance
+ RST Flag Count
+ PSH Flag Count
+ Average Packet Size
+ Fwd Avg Bulk Rate
+ Subflow Bwd Packets
+Init_Win_bytes_forward
+ Init_Win_bytes_backward
+ act_data_pkt_fwd
+Idle Mean
+ Idle Std
+ Idle Max

@@ -1,0 +1,17 @@
+Indicateur,Valeur
+Caractéristiques initiales,78.0
+Caractéristiques sélectionnées,26.0
+Taux de réduction (%),66.67
+F1 (référence),0.9951
+F1 (BPSO),0.9957
+Δ F1,0.0006
+Recall ATTACK (référence),0.9935
+Recall ATTACK (BPSO),0.9956
+Δ Recall ATTACK,0.0021
+ROC-AUC (référence),0.9998
+ROC-AUC (BPSO),0.9998
+Temps entraînement référence (s),73.14
+Temps entraînement BPSO (s),61.2
+Gain temps entraînement (s),11.94
+Durée totale BPSO (s),4348.3
+Évaluations fitness,210.0
